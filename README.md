@@ -86,6 +86,7 @@ Now, go to the health-monitoring-api directory in this repo or in the downloaded
 ![enter image description here](https://radhakishan.vpran.in/file-list.png)
 
 - Open the health-monitoring-php folder, then open include folder, in this folder we need to make changes in two files only.
+
 ![enter image description here](http://radhakishan.vpran.in/two-file.png)
 
 - First, open ```config.php``` file and make the following changes.
