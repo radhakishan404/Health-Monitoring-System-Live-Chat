@@ -10,19 +10,19 @@ Hey! I'm Radhakishan Jangid. Check my portfolio from [Here ↩](https://radhakis
 ***Features:-***
 ----------
 **Patient:**
-	- Login, Register, Forget Password.
-	- Add, Edit, Delete, List (CRUD) for patient readings.
-	- Chart view for Readings.
-	- Profile Edit.
-	- Doctors Message List.
-	- Live Chat with doctors.
+- Login, Register, Forget Password.
+- Add, Edit, Delete, List (CRUD) for patient readings.
+- Chart view for Readings.
+- Profile Edit.
+- Doctors Message List.
+- Live Chat with doctors.
 **Doctor:**
-	- Login, Register, Forget Password.
-	- List of patients.
-	- Live search of patients.
-	- Chart view details about patients.
-	- Direct message to patients.
-	- Live Chat with Patients.
+- Login, Register, Forget Password.
+- List of patients.
+- Live search of patients.
+- Chart view details about patients.
+- Direct message to patients.
+- Live Chat with Patients.
 
 
 ***Languages & tools:-***
